@@ -131,11 +131,12 @@ header {
 
 .profile-placeholder {
     .profile-photo {
-    width: 220px;
-    height: 220px;
+    width: 160px;
+    height: 160px;
     border-radius: 50%;
     object-fit: cover;
     object-position: center 25%;
+    display: block;
 }
 }
 
